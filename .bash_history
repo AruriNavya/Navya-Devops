@@ -88,3 +88,52 @@ touch new
 git add new
 git commit -m "nnn"
 git log
+git config user.name "navi"
+git config user.email "arurianandam16506@gmail.com"
+touch candy
+git add candy
+git commit -m "message"
+git log
+rm -rf candy
+ll
+rm -rf pubg
+ll
+rm -rf file(0..10}
+rm -rf file(0..10)
+rm -rf fil{(0..10}
+rm -rf file{1..10}
+ll
+tree
+yum install tree
+tree
+touch file{1..4}.txt
+ll
+touch file{1..4}.pdf
+ll
+vi .gitignore
+ll
+vi .gitignore
+ll
+git add .
+git status
+touch file{1..5}.jpg
+ll
+vi .gitignore
+git status
+ll
+git add .
+ll
+git add .
+git log
+rm -rf *
+ll
+touch file{1..5}.png
+ll
+touch file{1..5}.txt
+ll
+vi .gitignore
+git add .
+git status
+git branch
+git branch navya
+git branch
